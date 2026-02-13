@@ -79,4 +79,8 @@ The dataset used for this project was obtained from LogHub.
 - Python Security Automation
 
 - SIEM Querying & Visualization
+  
+## 👨‍💻 Author
 
+**Ayush Yadav**  
+Cybersecurity Enthusiast | SOC & Blue Team Focused  
